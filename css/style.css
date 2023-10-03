@@ -73,7 +73,9 @@ body {
 
 .map__cell:first-child {
   grid-column: 3;
-  grid-row: 8;
+  grid-row: 7;
+  align-self: center;
+  justify-self: center;
 }
 
 .map__cell:nth-child(2) {
